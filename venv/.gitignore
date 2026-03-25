@@ -1,0 +1,14 @@
+# Ignore the virtual environment
+venv/
+.venv/
+
+# Ignore those messy system DLLs
+*.dll
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore folder metadata
+.vscode/
+.DS_Store
