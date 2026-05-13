@@ -1,1 +1,12 @@
 pandas
+langchain
+scikit-learn
+langchain-core
+langchain-community
+spacy
+torch
+torchvision
+tokenizers
+datasets
+sentence_transformers
+langchain_openai
