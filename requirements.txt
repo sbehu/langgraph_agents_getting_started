@@ -10,3 +10,5 @@ tokenizers
 datasets
 sentence_transformers
 langchain_openai
+langchain-experimental
+langchain_openai
